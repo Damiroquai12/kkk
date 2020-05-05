@@ -13,7 +13,7 @@ paths:
 post:
 tags:
 - hTge機能
-summary: "hogeする"
+summary: "hTgeする"
 description: "処理概要"
 security:
 - basicAuth: []
