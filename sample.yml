@@ -12,7 +12,7 @@ paths:
 /hoge:
 post:
 tags:
-- hoge機能
+- hTge機能
 summary: "hogeする"
 description: "処理概要"
 security:
